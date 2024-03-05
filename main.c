@@ -1,0 +1,6 @@
+#include <stlib.h>
+
+int main()
+{
+	return 0;
+}
